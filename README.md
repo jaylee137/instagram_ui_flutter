@@ -45,7 +45,7 @@ $ git clone https://github.com/ahmedgulabkhan/instagram_ui_flutter.git
 
 ## Author(s)
 
-[Ahmed Gulab Khan](https://www.github.com/ahmedgulabkhan)
+[Jayden Lee](https://www.github.com/jMax-518)
 
 ## Other Flutter Projects
 
