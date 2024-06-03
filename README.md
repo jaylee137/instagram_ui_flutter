@@ -7,7 +7,7 @@
 <p align="center"><b>Instagram clone</b></p>
 
 ## About
-A UI clone of the Instagram app that I created using Flutter.
+A UI clone of the Instagram app that I created using Flutter
 
 ## Snapshots
 
